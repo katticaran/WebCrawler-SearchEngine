@@ -1,0 +1,11 @@
+data2/
+data2index
+pageDir/
+pageDirfile
+querOut
+RandomDir/
+README.md
+test
+!simpletest/*
+!simpletestindex
+!.gitignore
